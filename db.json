@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+            "id": "123asd",
+            "name": "Cheesburger",
+            "img": "https://w7.pngwing.com/pngs/347/717/png-transparent-hamburger-cheeseburger-veggie-burger-others-food-beef-cheeseburger.png",
+            "cheese": 1,
+            "bacon": 1,
+            "salad": 1
+        },
+        {
+            "id": "124asd",
+            "name": "Burger",
+            "img": "https://e7.pngegg.com/pngimages/628/611/png-clipart-cheeseburger-hamburger-whopper-buffalo-burger-fast-food-meat.png",
+            "cheese": 0,
+            "bacon": 1,
+            "salad": 1
+        },
+        {
+            "id": "125asd",
+            "name": "Dubble-Burger",
+            "img": "https://image.pngaaa.com/490/2006490-middle.png",
+            "cheese": 0,
+            "bacon": 2,
+            "salad": 1
+        }
+    ]
+}
